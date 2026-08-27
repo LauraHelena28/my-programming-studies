@@ -4,6 +4,8 @@ Welcome to my programming studies repository! 👋
 
 I'm a Technical Student in Game Programming and I'm currently starting my journey in programming and technology.
 
+I'm currently starting to learn the **C programming language** and building my programming fundamentals through practice and exercises.
+
 This repository is where I will keep my exercises, practices and first projects while learning.
 
 ---
